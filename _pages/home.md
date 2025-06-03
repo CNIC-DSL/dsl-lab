@@ -1,69 +1,20 @@
 ---
-title: "Allan Lab - Home"
+title: "CNIC DSL - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "CNIC DSL - Home"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**科学数据智能与创新实验室（Data Intelligence for Scientific Innovation Lab）**隶属于中国科学院计算机网络信息中心（Computer Network Information Center (CNIC) of the Chinese Academy of Sciences (CAS)），致力于推动人工智能在科学研究领域的深度融合与负责任发展。实验室围绕“科学智能的可信性、知识性与实用性”三大核心目标，构建理论、方法与系统层面的关键技术体系，致力于助力国家科技创新能力提升和科研范式转型。
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+实验室主要研究方向包括：
+- 负责任的科学智能（Responsible Scientific Intelligence）：AI4Science评价（AI4Science Evaluation），可信人工智能（Trustworthy Artificial Intelligence），机器行为与科技伦理（Machine Behavior and Science Ethics）
+- 科学大数据知识计算（Scientific Knowledge Computing Based on Big Data）：科学知识图谱（Scientific Knowledge Graph），大模型知识增强（Knowledge Augmentation via Foundation Models），知识管理与创造（Knowledge Management and Innovation）
+- 新一代科学智能应用（Next-Generation Scientific Intelligence Applications）：多智能体系统（Multi-Agent Systems），科学智能仿真（Scientific Intelligence Simulation），科研管理智能化（Intelligent Research Management）
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
-
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
+**我们正在招募有热情的博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
 
 
 <figure class="fifth">
