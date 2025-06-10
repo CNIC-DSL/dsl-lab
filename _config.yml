@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
+title: CNIC DSL Website
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
-baseurl: ""
-url: ""
+  Website of CNIC DSL.
+baseurl: "/dsl-lab"
+url: "https://cnic-dsl.github.io/"
 
 include:
   - .htaccess
