@@ -14,13 +14,10 @@ permalink: /
 - 新一代科学智能应用（Next-Generation Scientific Intelligence Applications）：多智能体系统（Multi-Agent Systems），科学智能仿真（Scientific Intelligence Simulation），科研管理智能化（Intelligent Research Management）
 
 
-**我们正在招募有热情的博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
+**我们正在招募有热情的研究员、博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/CAS.jpg" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home/CNIC.png" style="width: 400px">
 </figure>

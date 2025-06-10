@@ -1,41 +1,31 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "CNIC DSL - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# 开放岗位
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**我们正在招募有热情的研究员、博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！**
 
-We are  looking for new group members with passion, talent, and grit!
+我们正在寻找充满热情、才华横溢、并具有坚韧精神的新成员加入我们的团队！
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+您将有机会参与人工智能领域与各交叉科学领域中的重大挑战，包括但不限于智能体系统、多模态知识建模、人机协同机制，以及AI驱动的科学发现。在这里，您不仅可以深入参与前沿研究问题的定义和理论方法的探索，还将亲手构建原型系统、优化算法性能，并推动真实世界中的应用落地。我们期待您在复杂问题中展现创造力，在科研与工程的交汇处不断突破边界，与我们共同开拓人工智能未来的新范式。
 
-### Past open positions
+### 博士后招聘信息
+我们热烈欢迎优秀青年学者申请加入计算机网络信息中心开展博士后研究工作。我们都将为您的科研发展提供全力支持，包括但不限于支持申报国家博士后各类科学基金、中科院特别研究助理计划等。欢迎通过邮件与我们联系，附上您的简历、研究背景介绍和资助申请意向，我们期待与志同道合的您一起探索科研前沿。
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+### 科研实习生招聘信息
+如果您是在读本科、硕士、博士，正在寻找实习或毕业项目，欢迎通过邮件联系我或小组其他成员。
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### 硕士/博士研究生招生信息
+我们欢迎来自全国各高校的优秀本科生或硕士生申请在计算机网络信息中心攻读硕士或博士学位。如果您对人工智能、数据智能、科学计算等方向的前沿研究充满热情，欢迎您申请加入我们的研究团队。
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+热忱欢迎全国在校本科生报名2025年中国科学院计算机网络信息中心“网络与计算”夏令营。[报名信息](https://cnic.cas.cn/yjsjy/zsxx/tjms/202505/t20250530_7794688.html)
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/building.png" width="55%">
 </figure>

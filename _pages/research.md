@@ -1,15 +1,21 @@
 ---
-title: "Allan Lab - Research"
+title: "CNIC DSL - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "CNIC DSL - Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# 科研平台项目
 
-Updating soon -- stay put. (Aug 11 2023)
+[科学地平线(SciHorizon)](https://www.scihorizon.cn/en)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SciHorizion.png){: style="width: 40%; float: center; margin: 0px"}
 
+<hr>
 
+ScienceDB.AI: 敬请期待
+
+<hr>
+
+SciMatrix: 敬请期待

@@ -1,11 +1,14 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: 杜晓蕾
+  photo: verdoes.jpg
+  duration: 2025-至今
+  info: 博士研究生
 
+- name: 李金鹏
+  photo: verdoes.jpg
+  duration: 2025-至今
+  info: 硕士研究生
 
+- name: 王振兴
+  photo: verdoes.jpg
+  duration: 2025-至今
+  info: 硕士研究生
