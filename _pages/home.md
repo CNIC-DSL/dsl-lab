@@ -6,12 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-**科学数据智能与创新实验室（Data Intelligence for Scientific Innovation Lab）**隶属于中国科学院计算机网络信息中心（Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS)），致力于推动人工智能在科学研究领域的深度融合与负责任发展。实验室围绕“科学智能的可信性、知识性与实用性”三大核心目标，构建理论、方法与系统层面的关键技术体系，致力于助力国家科技创新能力提升和科研范式转型。
+**科学数据智能与创新实验室（Data Intelligence for Scientific Innovation Lab）**隶属于中国科学院计算机网络信息中心（Computer Network Information Center (CNIC) of the Chinese Academy of Sciences (CAS)），聚焦于研发面向科学大数据的新一代人工智能技术，融合多学科领域知识，助力解决复杂科学问题，构建跨学科创新应用，提升科研创新效率，支撑学科发展。
 
 实验室主要研究方向包括：
-- 负责任的科学智能（Responsible Scientific Intelligence）：AI4Science评价（AI4Science Evaluation），可信人工智能（Trustworthy Artificial Intelligence），机器行为与科技伦理（Machine Behavior and Science Ethics）
-- 科学大数据知识计算（Scientific Knowledge Computing Based on Big Data）：科学知识图谱（Scientific Knowledge Graph），大模型知识增强（Knowledge Augmentation via Foundation Models），知识管理与创造（Knowledge Management and Innovation）
-- 新一代科学智能应用（Next-Generation Scientific Intelligence Applications）：多智能体系统（Multi-Agent Systems），科学智能仿真（Scientific Intelligence Simulation），科研管理智能化（Intelligent Research Management）
+- 负责任的科学智能（Responsible AI for Science）：AI for Science评价（AI4Science Evaluation），可信人工智能（Trustworthy AI），机器行为与科技伦理（Machine Behavior and AI Ethics）
+- 科学大数据知识计算（Knowledge Computing for Scientific Big Data）：科学知识图谱（Scientific Knowledge Graph），大模型知识增强（LLM Knowledge Augmentation），知识管理与创造（Knowledge Management and Creation）
+- 新一代科学智能应用（Next-Generation AI for Science Applications）：多智能体系统（Agentic AI Systems），科学智能仿真（AI for Science Simulation），科研管理智能化（AI for Research Management）
 
 
 **我们正在招募有热情的研究员、博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
