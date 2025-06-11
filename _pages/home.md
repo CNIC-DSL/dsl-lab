@@ -14,7 +14,7 @@ permalink: /
 - 新一代科学智能应用（Next-Generation AI4Science Applications）：多智能体系统（Agentic AI Systems），科学智能仿真（AI for Science Simulation），科研管理智能化（AI for Research Management）
 
 
-**我们正在招募有热情的研究员、博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
+**我们正在招募有热情的研究员/副研究员/助理研究、博士后、（硕/博）研究生和实习生加入团队，支持各级人才计划申报，欢迎联系加入！** [（发送邮件联系我们）](hszhu@cnic.cn)
 
 
 <figure class="fifth">
