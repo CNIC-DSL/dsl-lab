@@ -10,7 +10,7 @@ title: CNIC DSL Website
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of CNIC DSL.
-baseurl: "/dsl-lab"
+baseurl: ""
 url: "https://cnic-dsl.github.io/"
 
 include:
