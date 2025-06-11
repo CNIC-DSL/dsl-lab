@@ -18,18 +18,20 @@
 
 - name: 成一航
   photo: yihangcheng.jpg
-  info: 特别研究助理<br>管理智能、信息系统、知识管理
+  info: 助理研究员<br>管理智能、信息系统、知识管理
   email: yhcheng@cnic.cn
 
 
+- name: "[肖濛](https://coco11563.github.io/)"
+  photo: mengxiao.jpeg
+  info: 助理研究员<br>生命科学智能、数据智能、科学数据挖掘
+  email: shaow.at.cnic.cn
+
+  
 - name: 龙晴晴
   photo: qingqinglong.jpg
   info: 工程师<br>新一代推荐系统、大模型检索增强、科学图数据挖掘
   email: qqlong@cnic.cn
 
 
-- name: "[肖濛](https://coco11563.github.io/)"
-  photo: mengxiao.jpeg
-  info: 特别研究助理<br>生命科学智能、数据智能、科学数据挖掘
-  email: shaow.at.cnic.cn
 
