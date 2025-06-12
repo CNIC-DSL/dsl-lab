@@ -8,7 +8,7 @@ permalink: /team/
 
 # 团队成员
 
- **我们正在招募有热情的研究员/副研究员/助理研究、博士后、（硕/博）研究生和实习生加入团队，支持各级人才计划申报，欢迎联系加入！** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **欢迎加入我们！** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) 
 
 <!-- 跳转[研究团队](#staff), [在读学生](#master-and-bachelor-students), [访问学生](#lab-visitors). -->
 
