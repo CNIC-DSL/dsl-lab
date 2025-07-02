@@ -42,14 +42,14 @@
   authors: Tianqi He, Xiaohan Huang, Yi Du, Qingqing Long, Ziyue Qiao, Min Wu, Yanjie Fu, Yuanchun Zhou, Meng Xiao
   link:
     url: https://www.computer.org/csdl/proceedings-article/icde/2025/360300e120/26FZCkB8Sn6
-    display: The 41st IEEE International Conference on Data Engineering (ICDE), 2025
+    display: The 41st IEEE International Conference on Data Engineering (ICDE-2025), 2025
   highlight: 0
 
 - title: GCAL： Adapting Graph Models to Evolving Domain Shifts
   authors: Ziyue Qiao, Qianyi Cai, Hao Dong, Jiawei Gu, Pengyang Wang, Meng Xiao, Xiao Luo, Hui Xiong
   link:
     url: https://arxiv.org/pdf/2505.16860
-    display: Forty-Second International Conference on Machine Learning (ICML), 2025
+    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
   highlight: 0
 
 - title: Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling： A Granularity-Adaptive Geographical Embedding Approach
@@ -157,7 +157,7 @@
   authors: Xunxin Cai, Chengrui Wang, Qingqing Long, Yuanchun Zhou, Meng Xiao
   link:
     url: https://arxiv.org/abs/2501.15108
-    display: The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025
+    display: In Proceedings of 30th International Conference on Database Systems for Advanced Applications (DASFAA-2025), 2025
   highlight: 0
   
 - title: Unveiling delay effects in traffic forecasting： a perspective from spatial-temporal delay differential equations
@@ -165,7 +165,7 @@
     Qingqing Long, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou
   link:
     url: https://dl.acm.org/doi/10.1145/3589334.3645688
-    display: In Proceedings of the ACM Web Conference 2024
+    display: In Proceedings of the ACM Web Conference 2024 (WWW-2024), 2024
   highlight: 0
 
 - title: Inductive graph alignment prompt： bridging the gap between graph pre-training and inductive fine-tuning from spectral perspective
@@ -173,5 +173,5 @@
     Yuchen Yan, Peiyan Zhang, Zheng Fang, Qingqing Long
   link:
     url: https://dl.acm.org/doi/pdf/10.1145/3589334.3645620
-    display: In Proceedings of the ACM Web Conference 2024
+    display: In Proceedings of the ACM Web Conference 2024 (WWW-2024), 2024
   highlight: 0
