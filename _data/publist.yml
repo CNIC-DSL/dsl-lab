@@ -6,6 +6,14 @@
     display: In Proceedings of the IEEE (PIEEE), 2025
   highlight: 0
 
+- title: Quasi-Metric Learning for Bilateral Person-Job Fit
+  authors:
+    Yingpeng Du, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu
+  link:
+    url: https://ieeexplore.ieee.org/document/10870255
+    display: In IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2025
+  highlight: 0
+  
 - title: SciHorizon： Benchmarking AI-for-Science Readiness from Scientific Data to Large Language Models
   authors:
     Chuan Qin, Xin Chen, Chengrui Wang, Pengmin Wu, Xi Chen, Yihang Cheng, Jingyi Zhao, Meng Xiao, Xiangchao Dong, Qingqing Long, Boya Pan, Han Wu, Chengzan Li, Yuanchun Zhou, Hui Xiong, Hengshu Zhu
@@ -14,6 +22,22 @@
     display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
   highlight: 0
 
+- title: From Missteps to Mastery： Enhancing Low-Resource Dense Retrieval through Adaptive Query Generation
+  authors:
+    Zhenyu Tong, Chuan Qin, Chuyu Fang, Kaichun Yao, Xi Chen, Jingshuai Zhang, Chen Zhu, Hengshu Zhu
+  link:
+    url: https://dl.acm.org/doi/10.1145/3690624.3709225
+    display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
+  highlight: 0
+
+  - title: Swarm Intelligence in Geo-Localization： A Multi-Agent Large Vision-Language Model Collaborative Framework
+  authors:
+    Xiao Han, Chen Zhu, Xiangyu Zhao, Hengshu Zhu
+  link:
+    url: https://arxiv.org/abs/2408.11312
+    display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
+  highlight: 0
+  
 - title: FastFT： Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies
   authors: Tianqi He, Xiaohan Huang, Yi Du, Qingqing Long, Ziyue Qiao, Min Wu, Yanjie Fu, Yuanchun Zhou, Meng Xiao
   link:
@@ -28,22 +52,6 @@
     display: Forty-Second International Conference on Machine Learning (ICML), 2025
   highlight: 0
 
-- title: From Missteps to Mastery： Enhancing Low-Resource Dense Retrieval through Adaptive Query Generation
-  authors:
-    Zhenyu Tong, Chuan Qin, Chuyu Fang, Kaichun Yao, Xi Chen, Jingshuai Zhang, Chen Zhu, Hengshu Zhu
-  link:
-    url: https://dl.acm.org/doi/10.1145/3690624.3709225
-    display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
-  highlight: 0
-
-- title: Swarm Intelligence in Geo-Localization： A Multi-Agent Large Vision-Language Model Collaborative Framework
-  authors:
-    Xiao Han, Chen Zhu, Xiangyu Zhao, Hengshu Zhu
-  link:
-    url: https://arxiv.org/abs/2408.11312
-    display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
-  highlight: 0
-
 - title: Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling： A Granularity-Adaptive Geographical Embedding Approach
   authors:
     Zhigaoyuan Wang, Ying Sun Hengshu Zhu
@@ -52,6 +60,22 @@
     display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
   highlight: 0
 
+- title: Towards Lifelong Model Editing via Simulating Ideal Editor
+  authors:
+    Yaming Guo, Siyang Guo, Ying Sun, Hengshu Zhu,
+  link:
+    url: https://icml.cc/virtual/2025/poster/45062
+    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
+  highlight: 0
+
+- title: KG-Agent： An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph
+  authors:
+    Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Jirong Wen
+  link:
+    url: https://arxiv.org/pdf/2402.11163
+    display: In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), 2025
+  highlight: 0
+  
 - title: Scalable intermediate-term earthquake forecasting with multimodal fusion neural networks
   authors:
     Yumeng Hu, Qi Zhang, Hengshu Zhu, Baoshan Wang, Hui Xiong, Haitao Wang
@@ -66,14 +90,6 @@
   link:
     url: https://www.nature.com/articles/s41599-025-04706-1
     display: In Humanities & Social Sciences Communications (HSSC), 2025
-  highlight: 0
-
-- title: Quasi-Metric Learning for Bilateral Person-Job Fit
-  authors:
-    Yingpeng Du, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu
-  link:
-    url: https://ieeexplore.ieee.org/document/10870255
-    display: In IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2025
   highlight: 0
 
 - title: COTR： Efficient Job Task Recognition for Occupational Information Systems with Class-Incremental Learning
@@ -100,21 +116,12 @@
     display: In ACM Transactions on Management Information Systems (ACM TMIS), 2025
   highlight: 0
 
-
-- title: Towards Lifelong Model Editing via Simulating Ideal Editor
+- title: Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution
   authors:
-    Yaming Guo, Siyang Guo, Ying Sun, Hengshu Zhu,
+    Ying Sun, Hengshu Zhu, Hui Xiong
   link:
-    url: https://icml.cc/virtual/2025/poster/45062
-    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
-  highlight: 0
-
-- title: KG-Agent： An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph
-  authors:
-    Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Jirong Wen
-  link:
-    url: https://arxiv.org/pdf/2402.11163
-    display: In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), 2025
+    url: https://ieeexplore.ieee.org/document/11017703
+    display: In IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2025
   highlight: 0
 
 - title: Does More Informative Job Title Lead to More Successful Hirings? A Randomized Field Experiment on an Online Labor Market Platform
