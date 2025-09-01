@@ -1,10 +1,10 @@
-- name: 周园春
+- name: 周园春，实验室首席科学家
   photo: yuanchunzhou.jpg
   info: 中科院计算机网络信息中心副主任<br>研究员，博士生导师<br>科学数据治理、数据智能
   email: zyc@cnic.cn
 
   
-- name: "[祝恒书](https://www.zhuhengshu.com/)"
+- name: "[祝恒书](https://www.zhuhengshu.com/)"，实验室主任
   photo: hengshuzhu.jpg
   info: 中科院计算机网络信息中心学术副主任<br>研究员，博士生导师<br>人工智能、大数据挖掘、大模型技术与应用
   email: hszhu@cnic.cn
