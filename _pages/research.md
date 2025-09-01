@@ -24,4 +24,8 @@ permalink: /research/
 
 <hr>
 
-科学幻方（SciMatrix）: 敬请期待
+科学幻方（SciMatrix）
+
+敬请期待
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SciMatrix.png){: style="width: 40%; float: center; margin: 0px"}
