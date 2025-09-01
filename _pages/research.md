@@ -17,6 +17,7 @@ permalink: /research/
 <hr>
 
 [科学数据银行AI（ScienceDB.AI）](https://agent.scidb.cn/en)
+
 科学数据银行AI（ScienceDB.AI）是由中国科学院计算机网络信息中心DSL实验室牵头建设的全球首个基于大语言模型的科学数据推荐智能体，于2025年9月正式上线。该平台融合先进的语义理解、权威的数据来源与智能化推荐能力，构建面向科研领域的高精度数据获取平台，以学术级的严谨与高效，为科研工作提共全流程的数据支持，加速科学发现与创新成果产出。
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ScienceDBAI.png){: style="width: 40%; float: center; margin: 0px"}
