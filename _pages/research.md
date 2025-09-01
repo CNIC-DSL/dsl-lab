@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# 平台项目
+# 代表性平台项目
 
 [科学地平线（SciHorizon）](https://www.scihorizon.cn/en)
 
