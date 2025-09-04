@@ -1,12 +1,12 @@
-- name: 周园春
+- name: 周园春，实验室首席科学家
   photo: yuanchunzhou.jpg
-  info: 中科院计算机网络信息中心副主任<br>研究员，博士生导师 
+  info: 中科院计算机网络信息中心副主任<br>研究员，博士生导师<br>科学数据治理、数据智能
   email: zyc@cnic.cn
 
   
-- name: "[祝恒书](https://www.zhuhengshu.com/)"
+- name: "[祝恒书](https://www.zhuhengshu.com/)，实验室主任"
   photo: hengshuzhu.jpg
-  info: 中科院计算机网络信息中心学术副主任<br>研究员，博士生导师 
+  info: 中科院计算机网络信息中心学术副主任<br>研究员，博士生导师<br>人工智能、大数据挖掘、大模型技术与应用
   email: hszhu@cnic.cn
 
 
@@ -18,18 +18,24 @@
 
 - name: 成一航
   photo: yihangcheng.jpg
-  info: 特别研究助理<br>管理智能、信息系统、知识管理
+  info: 助理研究员<br>管理智能、信息系统、知识管理
   email: yhcheng@cnic.cn
-
-
-- name: 龙晴晴
-  photo: qingqinglong.jpg
-  info: 工程师<br>新一代推荐系统、大模型检索增强、科学图数据挖掘
-  email: qqlong@cnic.cn
 
 
 - name: "[肖濛](https://coco11563.github.io/)"
   photo: mengxiao.jpeg
-  info: 特别研究助理<br>生命科学智能、数据智能、科学数据挖掘
-  email: shaow.at.cnic.cn
+  info: 助理研究员<br>生命科学智能、数据智能、科学数据挖掘
+  email: shaow@cnic.cn
+  
+- name: 龙晴晴
+  photo: qingqinglong.jpg
+  info: 工程师<br>新一代推荐系统、大模型检索增强、科学图数据挖掘
+  email: qqlong@cnic.cn
+  
+- name: 李德康
+  photo: lidekang.jpg
+  info: 助理研究员<br>人工智能地震学、实验室地球物理、环境地震学
+  email: dkli@cnic.cn
+
+
 
