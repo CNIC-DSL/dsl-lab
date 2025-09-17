@@ -8,7 +8,7 @@ permalink: /team/
 
 # 团队成员
 
- **我们正在招募有热情的研究员、博士后、博士研究生和硕士研究生加入团队，欢迎联系加入！** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **欢迎加入我们！** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) 
 
 <!-- 跳转[研究团队](#staff), [在读学生](#master-and-bachelor-students), [访问学生](#lab-visitors). -->
 
@@ -25,7 +25,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -88,7 +88,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>

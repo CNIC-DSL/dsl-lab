@@ -6,26 +6,20 @@
     display: In Proceedings of the IEEE (PIEEE), 2025
   highlight: 0
 
+- title: Quasi-Metric Learning for Bilateral Person-Job Fit
+  authors:
+    Yingpeng Du, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu
+  link:
+    url: https://ieeexplore.ieee.org/document/10870255
+    display: In IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2025
+  highlight: 0
+
 - title: SciHorizon： Benchmarking AI-for-Science Readiness from Scientific Data to Large Language Models
   authors:
     Chuan Qin, Xin Chen, Chengrui Wang, Pengmin Wu, Xi Chen, Yihang Cheng, Jingyi Zhao, Meng Xiao, Xiangchao Dong, Qingqing Long, Boya Pan, Han Wu, Chengzan Li, Yuanchun Zhou, Hui Xiong, Hengshu Zhu
   link:
     url: https://arxiv.org/abs/2503.13503
     display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
-  highlight: 0
-
-- title: FastFT： Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies
-  authors: Tianqi He, Xiaohan Huang, Yi Du, Qingqing Long, Ziyue Qiao, Min Wu, Yanjie Fu, Yuanchun Zhou, Meng Xiao
-  link:
-    url: https://www.computer.org/csdl/proceedings-article/icde/2025/360300e120/26FZCkB8Sn6
-    display: The 41st IEEE International Conference on Data Engineering (ICDE), 2025
-  highlight: 0
-
-- title: GCAL： Adapting Graph Models to Evolving Domain Shifts
-  authors: Ziyue Qiao, Qianyi Cai, Hao Dong, Jiawei Gu, Pengyang Wang, Meng Xiao, Xiao Luo, Hui Xiong
-  link:
-    url: https://arxiv.org/pdf/2505.16860
-    display: Forty-Second International Conference on Machine Learning (ICML), 2025
   highlight: 0
 
 - title: From Missteps to Mastery： Enhancing Low-Resource Dense Retrieval through Adaptive Query Generation
@@ -43,15 +37,45 @@
     url: https://arxiv.org/abs/2408.11312
     display: In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-2025), 2025
   highlight: 0
+  
+- title: FastFT： Accelerating Reinforced Feature Transformation via Advanced Exploration Strategies
+  authors: Tianqi He, Xiaohan Huang, Yi Du, Qingqing Long, Ziyue Qiao, Min Wu, Yanjie Fu, Yuanchun Zhou, Meng Xiao
+  link:
+    url: https://www.computer.org/csdl/proceedings-article/icde/2025/360300e120/26FZCkB8Sn6
+    display: The 41st IEEE International Conference on Data Engineering (ICDE-2025), 2025
+  highlight: 0
+
+- title: GCAL： Adapting Graph Models to Evolving Domain Shifts
+  authors: Ziyue Qiao, Qianyi Cai, Hao Dong, Jiawei Gu, Pengyang Wang, Meng Xiao, Xiao Luo, Hui Xiong
+  link:
+    url: https://arxiv.org/pdf/2505.16860
+    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
+  highlight: 0
 
 - title: Unifying Knowledge from Diverse Datasets to Enhance Spatial-Temporal Modeling： A Granularity-Adaptive Geographical Embedding Approach
   authors:
-    Zhigaoyuan Wang, Ying Sun Hengshu Zhu
+    Zhigaoyuan Wang, Ying Sun, Hengshu Zhu
   link:
     url: 
     display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
   highlight: 0
 
+- title: Towards Lifelong Model Editing via Simulating Ideal Editor
+  authors:
+    Yaming Guo, Siyang Guo, Ying Sun, Hengshu Zhu,
+  link:
+    url: https://icml.cc/virtual/2025/poster/45062
+    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
+  highlight: 0
+
+- title: KG-Agent： An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph
+  authors:
+    Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Jirong Wen
+  link:
+    url: https://arxiv.org/pdf/2402.11163
+    display: In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), 2025
+  highlight: 0
+  
 - title: Scalable intermediate-term earthquake forecasting with multimodal fusion neural networks
   authors:
     Yumeng Hu, Qi Zhang, Hengshu Zhu, Baoshan Wang, Hui Xiong, Haitao Wang
@@ -66,14 +90,6 @@
   link:
     url: https://www.nature.com/articles/s41599-025-04706-1
     display: In Humanities & Social Sciences Communications (HSSC), 2025
-  highlight: 0
-
-- title: Quasi-Metric Learning for Bilateral Person-Job Fit
-  authors:
-    Yingpeng Du, Hongzhi Liu, Hengshu Zhu, Yang Song, Zhi Zheng, Zhonghai Wu
-  link:
-    url: https://ieeexplore.ieee.org/document/10870255
-    display: In IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2025
   highlight: 0
 
 - title: COTR： Efficient Job Task Recognition for Occupational Information Systems with Class-Incremental Learning
@@ -100,21 +116,12 @@
     display: In ACM Transactions on Management Information Systems (ACM TMIS), 2025
   highlight: 0
 
-
-- title: Towards Lifelong Model Editing via Simulating Ideal Editor
+- title: Towards Faithful Neural Network Intrinsic Interpretation with Shapley Additive Self-Attribution
   authors:
-    Yaming Guo, Siyang Guo, Ying Sun, Hengshu Zhu,
+    Ying Sun, Hengshu Zhu, Hui Xiong
   link:
-    url: https://icml.cc/virtual/2025/poster/45062
-    display: In Proceedings of the 42nd International Conference on Machine Learning (ICML-2025), 2025
-  highlight: 0
-
-- title: KG-Agent： An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph
-  authors:
-    Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Jirong Wen
-  link:
-    url: https://arxiv.org/pdf/2402.11163
-    display: In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025), 2025
+    url: https://ieeexplore.ieee.org/document/11017703
+    display: In IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2025
   highlight: 0
 
 - title: Does More Informative Job Title Lead to More Successful Hirings? A Randomized Field Experiment on an Online Labor Market Platform
@@ -150,7 +157,7 @@
   authors: Xunxin Cai, Chengrui Wang, Qingqing Long, Yuanchun Zhou, Meng Xiao
   link:
     url: https://arxiv.org/abs/2501.15108
-    display: The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025
+    display: In Proceedings of 30th International Conference on Database Systems for Advanced Applications (DASFAA-2025), 2025
   highlight: 0
   
 - title: Unveiling delay effects in traffic forecasting： a perspective from spatial-temporal delay differential equations
@@ -158,7 +165,7 @@
     Qingqing Long, Zheng Fang, Chen Fang, Chong Chen, Pengfei Wang, Yuanchun Zhou
   link:
     url: https://dl.acm.org/doi/10.1145/3589334.3645688
-    display: In Proceedings of the ACM Web Conference 2024
+    display: In Proceedings of the ACM Web Conference 2024 (WWW-2024), 2024
   highlight: 0
 
 - title: Inductive graph alignment prompt： bridging the gap between graph pre-training and inductive fine-tuning from spectral perspective
@@ -166,5 +173,5 @@
     Yuchen Yan, Peiyan Zhang, Zheng Fang, Qingqing Long
   link:
     url: https://dl.acm.org/doi/pdf/10.1145/3589334.3645620
-    display: In Proceedings of the ACM Web Conference 2024
+    display: In Proceedings of the ACM Web Conference 2024 (WWW-2024), 2024
   highlight: 0

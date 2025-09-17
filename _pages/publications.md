@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# 发表论文
+# 近期发表论文
 
 {% for publi in site.data.publist %}
 
