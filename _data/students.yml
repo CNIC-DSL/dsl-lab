@@ -1,12 +1,27 @@
-- name: 刘典玉
-  photo: verdoes.jpg
+- name: 贺天琦
+  photo: students/tianqihe.jpg
+  duration: 2024-至今
+  info: 博士研究生
+
+- name: 黄肖翰
+  photo: students/xiaohanhuang.jpg
   duration: 2025-至今
   info: 博士研究生
-  
+
 - name: 杜晓蕾
   photo: verdoes.jpg
   duration: 2025-至今
   info: 博士研究生
+
+- name: 刘典玉
+  photo: verdoes.jpg
+  duration: 2025-至今
+  info: 博士研究生
+
+- name: 陈梓兴
+  photo: students/zixinchen.jpg
+  duration: 2024-至今
+  info: 硕士研究生
 
 - name: 李金鹏
   photo: verdoes.jpg

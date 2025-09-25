@@ -1,3 +1,11 @@
+- title: Knowledge-Guided Gene Panel Selection for Label-Free Single-Cell RNA-Seq Data： A Reinforcement Learning Perspective
+  authors:
+    Meng Xiao, Weiliang Zhang, Xiaohan Huang, Hengshu Zhu, Min Wu, Xiaoli Li, Yuanchun Zhou
+  link:
+    url: https://arxiv.org/pdf/2501.04718
+    display: IEEE Transactions on Computational Biology and Bioinformatics
+  highlight: 0
+
 - title: A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics
   authors:
     Chuan Qin, Le Zhang, Yihang Cheng, Rui Zha, Dazhong Shen, Qi Zhang, Xi Chen, Ying Sun, Chen Zhu, Hengshu Zhu, Hui Xiong
