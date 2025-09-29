@@ -1,3 +1,13 @@
+- name: 陈浩天
+  photo: verdoes.jpg
+  duration: 2023-至今
+  info: 博士研究生
+  
+- name: 赵晨阳
+  photo: verdoes.jpg
+  duration: 2023-至今
+  info: 博士研究生
+
 - name: 贺天琦
   photo: students/tianqihe.jpg
   duration: 2024-至今
@@ -27,7 +37,7 @@
   photo: verdoes.jpg
   duration: 2026-至今
   info: 博士研究生
-
+  
 - name: 陈梓兴
   photo: students/zixinchen.jpg
   duration: 2024-至今
