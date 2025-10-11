@@ -24,8 +24,16 @@ permalink: /research/
 
 <hr>
 
-科学幻方（SciMatrix）
+[科学幻方（SciMatrix）](https://www.scimatrix.cn/)
 
-敬请期待
+科学幻方（SciMatrix）是由中国科学院计算机网络信息中心研发的新一代科学智能（AI for Science）交互平台。平台基于中心自主研发的新一代生成式人工智能与可视化交互技术，以中国科技云丰富的智算资源为支撑，旨在打造一个以人智协同、多学科协作、跨领域融合为特色的科研创新生态，赋能前沿科学发现与科研管理。科学幻方也是全球首个面向科学领域的多学科AI科学家协作平台，力争成为助力科学突破的创新引擎与成果转化的催化剂。
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciMatrix.png){: style="width: 40%; float: center; margin: 0px"}
+
+<hr>
+
+[XCOMPASS](https://xcompass.findata.cn)
+
+XCompass是在中国科学院“指南针联盟”框架指导下，由中国科学院计算机网络信息中心牵头联合动物研究所、文献情报中心、国家生物信息中心等单位研发的面向生命科学领域科研人员的智能检索与知识发现平台。系统致力于建立数智赋能的生命科学研究新范式，深入解析生命的本质规律。
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/XCompass.png){: style="width: 40%; float: center; margin: 0px"}
