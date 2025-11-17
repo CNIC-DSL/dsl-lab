@@ -2,13 +2,32 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+  <title>
+    {% if page.title %}
+      {{ page.title | escape }}
+    {% else %}
+      {{ site.title | escape }}
+    {% endif %}
+  </title>
 
+  <meta name="description" content="
+    {% if page.excerpt %}
+      {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ site.description }}
+    {% endif %}
+  ">
+
+  <!-- ******** 最稳定的 CSS 加载方式 ******** -->
+  <!-- 自动避免双斜杠、不会受 baseurl 或 url 影响 -->
+  <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+
+  <!-- ******** 最稳定的 canonical 链接 ******** -->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>
+
